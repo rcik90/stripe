@@ -1,0 +1,577 @@
+`
+### WordPress Environment ###
+
+WordPress address (URL): https://hellofit.co.uk
+Site address (URL): https://hellofit.co.uk
+WC Version: 8.8.3
+REST API Version: ✔ 8.8.3
+Action Scheduler Version: ✔ 3.7.4
+Log Directory Writable: ✔
+WP Version: 6.5.3
+WP Multisite: –
+WP Memory Limit: 512 MB
+WP Debug Mode: –
+WP Cron: ✔
+Language: en_GB
+External object cache: –
+
+### Server Environment ###
+
+Server Info: LiteSpeed
+PHP Version: 7.4.33
+PHP Post Max Size: 128 MB
+PHP Time Limit: 3000
+PHP Max Input Vars: 1000
+cURL Version: 7.87.0
+OpenSSL/1.1.1w
+
+SUHOSIN Installed: –
+MySQL Version: 10.5.25-MariaDB
+Max Upload Size: 128 MB
+Default Timezone is UTC: ✔
+fsockopen/cURL: ✔
+SoapClient: ✔
+DOMDocument: ✔
+GZip: ✔
+Multibyte String: ✔
+Remote Post: ✔
+Remote Get: ✔
+
+### Database ###
+
+WC Database Version: 8.8.3
+WC Database Prefix: wpop_
+Total Database Size: 146.36MB
+Database Data Size: 102.41MB
+Database Index Size: 43.95MB
+wpop_woocommerce_sessions: Data: 0.34MB + Index: 0.02MB + Engine MyISAM
+wpop_woocommerce_api_keys: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_woocommerce_attribute_taxonomies: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpop_woocommerce_downloadable_product_permissions: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_woocommerce_order_items: Data: 0.08MB + Index: 0.05MB + Engine MyISAM
+wpop_woocommerce_order_itemmeta: Data: 0.65MB + Index: 0.41MB + Engine MyISAM
+wpop_woocommerce_tax_rates: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_woocommerce_tax_rate_locations: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_woocommerce_shipping_zones: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_woocommerce_shipping_zone_locations: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpop_woocommerce_shipping_zone_methods: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_woocommerce_payment_tokens: Data: 0.01MB + Index: 0.01MB + Engine MyISAM
+wpop_woocommerce_payment_tokenmeta: Data: 0.02MB + Index: 0.02MB + Engine MyISAM
+wpop_woocommerce_log: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_actionscheduler_actions: Data: 2.30MB + Index: 0.67MB + Engine MyISAM
+wpop_actionscheduler_claims: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_actionscheduler_groups: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpop_actionscheduler_logs: Data: 1.69MB + Index: 0.83MB + Engine MyISAM
+wpop_booking: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_bookingdates: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_bup_appearance_templates: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_bup_appointment_notes: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_bup_bookings: Data: 0.89MB + Index: 0.12MB + Engine MyISAM
+wpop_bup_bookings_meta: Data: 6.79MB + Index: 2.45MB + Engine MyISAM
+wpop_bup_carts: Data: 0.35MB + Index: 0.42MB + Engine MyISAM
+wpop_bup_categories: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_bup_filters: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_bup_filter_staff: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_bup_notifications: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_bup_orders: Data: 1.39MB + Index: 0.23MB + Engine MyISAM
+wpop_bup_services: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_bup_service_rates: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_bup_service_variable_pricing: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_bup_staff_availability: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_bup_staff_availability_breaks: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_bup_staff_availability_rules: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_bup_staff_days_off: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_commentmeta: Data: 0.11MB + Index: 0.02MB + Engine MyISAM
+wpop_comments: Data: 0.58MB + Index: 0.26MB + Engine MyISAM
+wpop_easywpsmtp_debug_events: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpop_easywpsmtp_tasks_meta: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpop_eo_events: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_eo_venuemeta: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_ewwwio_images: Data: 0.12MB + Index: 0.05MB + Engine MyISAM
+wpop_e_events: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_gglcptch_allowlist: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpop_grp_google_place: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_grp_google_review: Data: 0.03MB + Index: 0.00MB + Engine MyISAM
+wpop_grp_google_stats: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_links: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_loginizer_logs: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpop_options: Data: 4.53MB + Index: 0.35MB + Engine MyISAM
+wpop_pmpro_discount_codes: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_pmpro_discount_codes_levels: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_pmpro_discount_codes_uses: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_pmpro_memberships_categories: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_pmpro_memberships_pages: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_pmpro_memberships_users: Data: 0.01MB + Index: 0.02MB + Engine MyISAM
+wpop_pmpro_membership_levelmeta: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_pmpro_membership_levels: Data: 0.01MB + Index: 0.01MB + Engine MyISAM
+wpop_pmpro_membership_orders: Data: 0.06MB + Index: 0.07MB + Engine MyISAM
+wpop_postmeta: Data: 20.90MB + Index: 2.34MB + Engine MyISAM
+wpop_posts: Data: 3.95MB + Index: 0.27MB + Engine MyISAM
+wpop_revslider_css: Data: 0.09MB + Index: 0.00MB + Engine MyISAM
+wpop_revslider_layer_animations: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_revslider_navigations: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_revslider_sliders: Data: 0.09MB + Index: 0.00MB + Engine MyISAM
+wpop_revslider_slides: Data: 0.32MB + Index: 0.00MB + Engine MyISAM
+wpop_revslider_static_slides: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_sbi_feeds: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_sbi_feed_caches: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpop_sbi_instagram_feeds_posts: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_sbi_instagram_feed_locator: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_sbi_instagram_posts: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_sbi_sources: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_smush_dir_images: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_statistics_exclusions: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_statistics_historical: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_statistics_pages: Data: 7.86MB + Index: 17.88MB + Engine MyISAM
+wpop_statistics_search: Data: 0.44MB + Index: 0.26MB + Engine MyISAM
+wpop_statistics_useronline: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_statistics_visit: Data: 0.02MB + Index: 0.03MB + Engine MyISAM
+wpop_statistics_visitor: Data: 10.67MB + Index: 11.13MB + Engine MyISAM
+wpop_strong_views: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_termmeta: Data: 0.01MB + Index: 0.02MB + Engine MyISAM
+wpop_terms: Data: 0.01MB + Index: 0.04MB + Engine MyISAM
+wpop_term_relationships: Data: 0.04MB + Index: 0.09MB + Engine MyISAM
+wpop_term_taxonomy: Data: 0.02MB + Index: 0.03MB + Engine MyISAM
+wpop_usermeta: Data: 2.09MB + Index: 1.23MB + Engine MyISAM
+wpop_users: Data: 0.14MB + Index: 0.16MB + Engine MyISAM
+wpop_wc_admin_notes: Data: 0.08MB + Index: 0.01MB + Engine MyISAM
+wpop_wc_admin_note_actions: Data: 0.05MB + Index: 0.01MB + Engine MyISAM
+wpop_wc_category_lookup: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_wc_customer_lookup: Data: 0.06MB + Index: 0.06MB + Engine MyISAM
+wpop_wc_download_log: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_wc_orders: Data: 0.02MB + Index: 0.11MB + Engine InnoDB
+wpop_wc_orders_meta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpop_wc_order_addresses: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+wpop_wc_order_coupon_lookup: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpop_wc_order_operational_data: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpop_wc_order_product_lookup: Data: 0.09MB + Index: 0.09MB + Engine MyISAM
+wpop_wc_order_stats: Data: 0.07MB + Index: 0.05MB + Engine MyISAM
+wpop_wc_order_tax_lookup: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_wc_product_attributes_lookup: Data: 0.01MB + Index: 0.01MB + Engine MyISAM
+wpop_wc_product_download_directories: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpop_wc_product_meta_lookup: Data: 0.01MB + Index: 0.03MB + Engine MyISAM
+wpop_wc_rate_limits: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_wc_reserved_stock: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_wc_tax_rate_classes: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpop_wc_webhooks: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_wfBlockedIPLog: Data: 0.01MB + Index: 0.01MB + Engine MyISAM
+wpop_wfBlocks7: Data: 0.02MB + Index: 0.02MB + Engine MyISAM
+wpop_wfConfig: Data: 4.60MB + Index: 0.02MB + Engine MyISAM
+wpop_wfCrawlers: Data: 0.01MB + Index: 0.00MB + Engine MyISAM
+wpop_wfFileChanges: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_wfFileMods: Data: 16.34MB + Index: 1.87MB + Engine MyISAM
+wpop_wfHits: Data: 0.36MB + Index: 0.11MB + Engine MyISAM
+wpop_wfHoover: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_wfIssues: Data: 0.13MB + Index: 0.02MB + Engine MyISAM
+wpop_wfKnownFileList: Data: 11.89MB + Index: 0.58MB + Engine MyISAM
+wpop_wfLiveTrafficHuman: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_wfLocs: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_wfLogins: Data: 0.57MB + Index: 0.11MB + Engine MyISAM
+wpop_wfls_2fa_secrets: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpop_wfls_role_counts: Data: 0.00MB + Index: 0.00MB + Engine MEMORY
+wpop_wfls_settings: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpop_wfNotifications: Data: 0.04MB + Index: 0.01MB + Engine MyISAM
+wpop_wfPendingIssues: Data: 0.01MB + Index: 0.01MB + Engine MyISAM
+wpop_wfReverseCache: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_wfSecurityEvents: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpop_wfSNIPCache: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpop_wfStatus: Data: 0.32MB + Index: 0.13MB + Engine MyISAM
+wpop_wfTrafficRates: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_wfWafFailures: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpop_wpfm_backup: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_wpforms_logs: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpop_wpforms_payments: Data: 0.02MB + Index: 0.14MB + Engine InnoDB
+wpop_wpforms_payment_meta: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+wpop_wpforms_tasks_meta: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_wpforo_accesses: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpop_wpforo_activity: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+wpop_wpforo_forums: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpop_wpforo_languages: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpop_wpforo_likes: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_wpforo_phrases: Data: 0.05MB + Index: 0.09MB + Engine MyISAM
+wpop_wpforo_posts: Data: 0.05MB + Index: 0.07MB + Engine MyISAM
+wpop_wpforo_profiles: Data: 0.07MB + Index: 0.03MB + Engine MyISAM
+wpop_wpforo_subscribes: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpop_wpforo_tags: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpop_wpforo_topics: Data: 0.00MB + Index: 0.02MB + Engine MyISAM
+wpop_wpforo_usergroups: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpop_wpforo_views: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_wpforo_visits: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpop_wpforo_votes: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_wpmailsmtp_debug_events: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpop_wpmailsmtp_tasks_meta: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_yith_wcwl: Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpop_yith_wcwl_lists: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpop_yoast_indexable: Data: 0.42MB + Index: 0.15MB + Engine MyISAM
+wpop_yoast_indexable_hierarchy: Data: 0.02MB + Index: 0.06MB + Engine MyISAM
+wpop_yoast_migrations: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpop_yoast_primary_term: Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpop_yoast_seo_links: Data: 0.04MB + Index: 0.02MB + Engine MyISAM
+wpop_yoast_seo_meta: Data: 0.12MB + Index: 0.15MB + Engine MyISAM
+
+### Post Type Counts ###
+
+attachment: 385
+customize_changeset: 1
+elementor_library: 10
+forum: 5
+grw_feed: 1
+mailmunch_page: 1
+mwb_subscriptions: 10
+nav_menu_item: 143
+oembed_cache: 4
+page: 109
+popup: 18
+popup_theme: 8
+post: 76
+product: 59
+product_variation: 69
+revision: 623
+shop_coupon: 21
+shop_order: 1089
+shop_order_refund: 28
+testimonial: 5
+tribe_events: 2
+tribe_organizer: 1
+tribe_venue: 1
+turbo-sidebar-cpt: 1
+wp_global_styles: 1
+wpcode: 2
+wpforms: 3
+wpm-testimonial: 4
+
+### Security ###
+
+Secure connection (HTTPS): ✔
+Hide errors from visitors: ✔
+
+### Active Plugins (33) ###
+
+ManageWP - Worker: by GoDaddy – 4.9.20
+Advanced Custom Fields - Location Field add-on: by Julien Bechade – 1.0
+Advanced Custom Fields: by WP Engine – 6.2.9
+Akismet Anti-spam: Spam Protection: by Automattic - Anti-spam Team – 5.3.2
+All-in-One WP Migration: by ServMask – 7.81
+Booking Ultra Pro Complement: by Booking Ultra Pro – 1.0.40
+Booking Ultra Pro Professional & Ultimate: by Booking Ultra Pro – 1.0.0
+Booking Ultra Pro CORE: by Booking Ultra Pro – 1.1.13
+Easy WP SMTP: by Easy WP SMTP – 2.3.0
+Elementor: by Elementor.com – 3.21.5
+Facebook Messenger for WordPress: by Brontobytes – 2.2.5
+reCaptcha by BestWebSoft: by BestWebSoft – 1.74
+XML Sitemap Generator for Google: by Auctollo – 4.1.19
+WPCode Lite: by WPCode – 2.1.12
+Smash Balloon Instagram Feed: by Smash Balloon – 6.3.1
+WPBakery Page Builder: by Michael M - WPBakery.com – 6.7.0
+Klarna Checkout for WooCommerce: by Klarna – 2.12.2
+Loginizer: by Softaculous – 1.8.4
+MailChimp Forms by MailMunch: by MailMunch – 3.2.3
+PixelYourSite: by PixelYourSite – 9.6.0
+Popup Maker: by Popup Maker – 1.18.5
+Slider Revolution: by ThemePunch – 5.2.4.1
+Social proof testimonials and reviews by Repuso: by  – 5.05
+Strong Testimonials: by WPChill – 3.1.12
+Plugin for Google Reviews: by RichPlugins  – 3.7
+WooCommerce Stripe Gateway: by WooCommerce – 8.2.0
+WooCommerce Legacy REST API: by WooCommerce – 1.0.4
+WooCommerce: by Automattic – 8.8.3
+Wordfence Security: by Wordfence – 7.11.5
+Yoast SEO: by Team Yoast – 22.7
+WP File Manager: by mndpsingh287 – 7.2.7
+Smush: by WPMU DEV – 3.16.2
+WPForms Lite: by WPForms – 1.8.8.3
+
+### Inactive Plugins (28) ###
+
+Advanced Custom Fields: Repeater Field: by Elliot Condon – 1.1.1
+Advanced Editor Tools: by Automattic – 5.9.2
+Clearpay Gateway for WooCommerce: by Clearpay – 3.8.5
+Conversios.io - All-in-one Google Analytics, Pixels and Product Feed Manager for WooCommerce: by Conversios – 7.0.10
+Duplicate Page: by mndpsingh287 – 4.5.3
+Hello Dolly: by Matt Mullenweg – 1.7.2
+Login No Captcha reCAPTCHA (Google): by Robert Peake and Contributors – 1.7.3
+Maintenance: by WebFactory Ltd – 4.08
+Paid Memberships Pro: by Paid Memberships Pro – 3.0.4
+Paid Memberships Pro - Register Helper Add On: by Paid Memberships Pro – 1.8.3
+Paid Memberships Pro - WooCommerce Add On: by Paid Memberships Pro – 1.9
+Regenerate Thumbnails: by Alex Mills (Viper007Bond) – 3.1.6
+Revision Control: by Dion Hulse – 2.3.2
+Sitemap: by webvitaly – 4.5
+Subscriptions For WooCommerce: by WP Swings – 1.6.5
+Surbma | GDPR Proof Cookie Consent & Notice Bar: by Surbma – 17.8.2
+Widgets On Pages: by Todd Halfpenny – 1.8.1
+WooCommerce Admin: by WooCommerce – 3.3.2
+WordPress Reset: by Aristeides Stathopoulos
+Matt Martz – 1.4.2
+
+WP Fastest Cache: by Emre Vona – 1.2.6
+WP Fastest Cache Premium: by Emre Vona – 1.3.6
+WPForms Signature Contract Add-on by ApproveMe.com: by ApproveMe.com – 1.8.0
+wpForo: by gVectors Team – 2.3.4
+wpForo Embeds: by gVectors Team (A. Chakhoyan and R. Hovhannisyan) – 1.0.6
+WP Mail SMTP: by WP Mail SMTP – 4.0.1
+WP Rollback: by WP Rollback – 2.0.7
+WP Statistics: by VeronaLabs – 14.6.4
+YITH WooCommerce Wishlist: by YITH – 3.34.0
+
+### Must Use Plugins (1) ###
+
+ManageWP - Worker Loader: by GoDaddy – 1.0.0
+
+### Settings ###
+
+API Enabled: ✔
+Force SSL: –
+Currency: GBP (£)
+Currency Position: left
+Thousand Separator: ,
+Decimal Separator: .
+Number of Decimals: 2
+Taxonomies: Product Types: external (external)
+grouped (grouped)
+simple (simple)
+variable (variable)
+
+Taxonomies: Product Visibility: exclude-from-catalog (exclude-from-catalog)
+exclude-from-search (exclude-from-search)
+featured (featured)
+outofstock (outofstock)
+rated-1 (rated-1)
+rated-2 (rated-2)
+rated-3 (rated-3)
+rated-4 (rated-4)
+rated-5 (rated-5)
+
+Connected to WooCommerce.com: –
+Enforce Approved Product Download Directories: –
+HPOS feature screen enabled: –
+HPOS feature enabled: –
+Order datastore: WC_Order_Data_Store_CPT
+HPOS data sync enabled: –
+
+### Logging ###
+
+Enabled: ✔
+Handler: Automattic\WooCommerce\Internal\Admin\Logging\LogHandlerFileV2
+Retention period: 30 days
+Level threshold: –
+Log directory size: 239 KB
+
+### WC Pages ###
+
+Shop base: #1569 - /shop3/
+Basket: #7 - /cart/
+Checkout: #8 - /checkout/
+My account: #9 - /my-account/
+Terms and conditions: ❌ Page not set
+
+### Theme ###
+
+Name: Oxygen
+Version: 3.9.6
+Author URL: http://laborator.co/
+Child Theme: ❌ – If you are modifying WooCommerce on a parent theme that you did not build
+personally we recommend using a child theme. See: How to create a child theme
+
+WooCommerce Support: ✔
+
+### Templates ###
+
+Overrides: oxygen/woocommerce/archive-product.php version 2.0.0 is out of date. The core version is 8.6.0
+oxygen/woocommerce/cart/cart-empty.php version 2.0.0 is out of date. The core version is 7.0.1
+oxygen/woocommerce/cart/cart-item-data.php
+oxygen/woocommerce/cart/cart-shipping.php version 2.5.0 is out of date. The core version is 8.8.0
+oxygen/woocommerce/cart/cart-totals.php
+oxygen/woocommerce/cart/cart.php version 2.3.8 is out of date. The core version is 7.9.0
+oxygen/woocommerce/cart/cross-sells.php version 1.6.4 is out of date. The core version is 4.4.0
+oxygen/woocommerce/cart/mini-cart.php version 2.5.0 is out of date. The core version is 7.9.0
+oxygen/woocommerce/cart/shipping-calculator.php version 2.0.8 is out of date. The core version is 7.0.1
+oxygen/woocommerce/checkout/cart-errors.php version 2.4.0 is out of date. The core version is 3.5.0
+oxygen/woocommerce/checkout/form-billing.php version 2.1.2 is out of date. The core version is 3.6.0
+oxygen/woocommerce/checkout/form-checkout.php version 2.3.0 is out of date. The core version is 3.5.0
+oxygen/woocommerce/checkout/form-coupon.php version 2.2 is out of date. The core version is 7.0.1
+oxygen/woocommerce/checkout/form-login.php version 2.0.0 is out of date. The core version is 3.8.0
+oxygen/woocommerce/checkout/form-pay.php version 2.5.0 is out of date. The core version is 8.2.0
+oxygen/woocommerce/checkout/form-shipping.php version 2.2.0 is out of date. The core version is 3.6.0
+oxygen/woocommerce/checkout/payment-method.php version 2.3.0 is out of date. The core version is 3.5.0
+oxygen/woocommerce/checkout/payment.php version 2.5.0 is out of date. The core version is 8.1.0
+oxygen/woocommerce/checkout/review-order.php version 2.3.0 is out of date. The core version is 5.2.0
+oxygen/woocommerce/checkout/thankyou.php version 2.2.0 is out of date. The core version is 8.1.0
+oxygen/woocommerce/content-product.php version 2.5.0 is out of date. The core version is 3.6.0
+oxygen/woocommerce/content-single-product.php version 1.6.4 is out of date. The core version is 3.6.0
+oxygen/woocommerce/content-widget-product.php version 2.5.0 is out of date. The core version is 3.5.5
+oxygen/woocommerce/global/breadcrumb.php
+oxygen/woocommerce/global/form-login.php version 2.1.0 is out of date. The core version is 7.0.1
+oxygen/woocommerce/global/quantity-input.php version 2.5.0 is out of date. The core version is 7.8.0
+oxygen/woocommerce/global/sidebar.php
+oxygen/woocommerce/global/wrapper-end.php version 1.6.4 is out of date. The core version is 3.3.0
+oxygen/woocommerce/global/wrapper-start.php version 1.6.4 is out of date. The core version is 3.3.0
+oxygen/woocommerce/loop/add-to-cart.php version 2.5.0 is out of date. The core version is 3.3.0
+oxygen/woocommerce/loop/loop-end.php
+oxygen/woocommerce/loop/loop-start.php version 2.0.0 is out of date. The core version is 3.3.0
+oxygen/woocommerce/loop/no-products-found.php version 2.0.0 is out of date. The core version is 7.8.0
+oxygen/woocommerce/loop/orderby.php version 2.2.0 is out of date. The core version is 3.6.0
+oxygen/woocommerce/loop/pagination.php version 2.2.2 is out of date. The core version is 3.3.1
+oxygen/woocommerce/loop/price.php
+oxygen/woocommerce/loop/rating.php version 2.0.0 is out of date. The core version is 3.6.0
+oxygen/woocommerce/loop/result-count.php version 2.0.0 is out of date. The core version is 3.7.0
+oxygen/woocommerce/loop/sale-flash.php
+oxygen/woocommerce/myaccount/form-add-payment-method.php version 2.1 is out of date. The core version is 7.8.0
+oxygen/woocommerce/myaccount/form-edit-account.php version 2.5.1 is out of date. The core version is 8.7.0
+oxygen/woocommerce/myaccount/form-edit-address.php version 2.1.0 is out of date. The core version is 7.0.1
+oxygen/woocommerce/myaccount/form-login.php version 2.2.6 is out of date. The core version is 7.0.1
+oxygen/woocommerce/myaccount/form-lost-password.php version 2.3.0 is out of date. The core version is 7.0.1
+oxygen/woocommerce/myaccount/my-account.php version 2.0.0 is out of date. The core version is 3.5.0
+oxygen/woocommerce/myaccount/my-address.php version 2.2.0 is out of date. The core version is 8.7.0
+oxygen/woocommerce/myaccount/my-downloads.php
+oxygen/woocommerce/myaccount/my-orders.php
+oxygen/woocommerce/myaccount/view-order.php version 2.2.0 is out of date. The core version is 3.0.0
+oxygen/woocommerce/notices/error.php version 1.6.4 is out of date. The core version is 8.6.0
+oxygen/woocommerce/notices/notice.php version 1.6.4 is out of date. The core version is 8.6.0
+oxygen/woocommerce/notices/success.php version 1.6.4 is out of date. The core version is 8.6.0
+oxygen/woocommerce/order/form-tracking.php version 1.6.4 is out of date. The core version is 7.0.1
+oxygen/woocommerce/order/order-details-customer.php version 2.4.0 is out of date. The core version is 8.7.0
+oxygen/woocommerce/order/order-details-item.php version 2.5.0 is out of date. The core version is 5.2.0
+oxygen/woocommerce/order/order-details.php version 2.5.3 is out of date. The core version is 8.5.0
+oxygen/woocommerce/order/tracking.php
+oxygen/woocommerce/single-product/add-to-cart/external.php version 2.1.0 is out of date. The core version is 7.0.1
+oxygen/woocommerce/single-product/add-to-cart/grouped.php version 2.1.7 is out of date. The core version is 7.0.1
+oxygen/woocommerce/single-product/add-to-cart/simple.php version 2.1.0 is out of date. The core version is 7.0.1
+oxygen/woocommerce/single-product/add-to-cart/variable.php version 2.5.0 is out of date. The core version is 6.1.0
+oxygen/woocommerce/single-product/meta.php version 1.6.4 is out of date. The core version is 3.0.0
+oxygen/woocommerce/single-product/price.php version 2.4.9 is out of date. The core version is 3.0.0
+oxygen/woocommerce/single-product/product-attributes.php version 2.1.3 is out of date. The core version is 3.6.0
+oxygen/woocommerce/single-product/product-image.php version 2.0.14 is out of date. The core version is 7.8.0
+oxygen/woocommerce/single-product/product-thumbnails.php version 2.3.0 is out of date. The core version is 3.5.1
+oxygen/woocommerce/single-product/rating.php version 2.3.2 is out of date. The core version is 3.6.0
+oxygen/woocommerce/single-product/related.php version 1.6.4 is out of date. The core version is 3.9.0
+oxygen/woocommerce/single-product/review.php version 2.5.0 is out of date. The core version is 2.6.0
+oxygen/woocommerce/single-product/sale-flash.php
+oxygen/woocommerce/single-product/share.php version 1.6.4 is out of date. The core version is 3.5.0
+oxygen/woocommerce/single-product/short-description.php version 1.6.4 is out of date. The core version is 3.3.0
+oxygen/woocommerce/single-product/tabs/additional-information.php version 2.0.0 is out of date. The core version is 3.0.0
+oxygen/woocommerce/single-product/tabs/description.php
+oxygen/woocommerce/single-product/tabs/tabs.php version 2.4.0 is out of date. The core version is 3.8.0
+oxygen/woocommerce/single-product/title.php
+oxygen/woocommerce/single-product/up-sells.php version 1.6.4 is out of date. The core version is 3.0.0
+oxygen/woocommerce/single-product-reviews.php version 2.3.2 is out of date. The core version is 4.3.0
+oxygen/woocommerce/single-product.php
+oxygen/woocommerce/content-product_cat.php version 2.5.2 is out of date. The core version is 4.7.0
+oxygen/woocommerce/taxonomy-product_cat.php version 1.6.4 is out of date. The core version is 4.7.0
+oxygen/woocommerce/taxonomy-product_tag.php version 1.6.4 is out of date. The core version is 4.7.0
+
+Outdated Templates: ❌
+					
+					
+						Learn how to update
+
+### Klarna Checkout Request Log ###
+
+2023-01-07 12:29:07: KCO create order
+Response code: 400
+Response message: {"error_code":"BAD_VALUE","error_messages":["Bad value: merchant_urls.terms (must be a valid http or https URI)"],"correlation_id":"8ea0da95-663a-4525-980c-13201d6df011","service_version":"SNAPSHOT"}
+Correlation ID: 8ea0da95-663a-4525-980c-13201d6df011
+
+2023-01-07 12:28:40: KCO create order
+Response code: 400
+Response message: {"error_code":"BAD_VALUE","error_messages":["Bad value: merchant_urls.terms (must be a valid http or https URI)"],"correlation_id":"feb09257-b329-4d1c-98e3-4d2d52638a44","service_version":"SNAPSHOT"}
+Correlation ID: feb09257-b329-4d1c-98e3-4d2d52638a44
+
+2023-01-07 12:28:31: KCO create order
+Response code: 400
+Response message: {"error_code":"BAD_VALUE","error_messages":["Bad value: merchant_urls.terms (must be a valid http or https URI)"],"correlation_id":"05be9948-fac4-4ce6-ac2c-912497fff49e","service_version":"SNAPSHOT"}
+Correlation ID: 05be9948-fac4-4ce6-ac2c-912497fff49e
+
+2023-01-07 12:28:02: KCO create order
+Response code: 400
+Response message: {"error_code":"BAD_VALUE","error_messages":["Bad value: merchant_urls.terms (must be a valid http or https URI)"],"correlation_id":"f1984c2e-24c0-454a-a610-e6f9897b511d","service_version":"SNAPSHOT"}
+Correlation ID: f1984c2e-24c0-454a-a610-e6f9897b511d
+
+2023-01-07 12:27:54: KCO create order
+Response code: 400
+Response message: {"error_code":"BAD_VALUE","error_messages":["Bad value: merchant_urls.terms (must be a valid http or https URI)"],"correlation_id":"f89c2382-a763-4272-98c1-f61232ecfaa7","service_version":"SNAPSHOT"}
+Correlation ID: f89c2382-a763-4272-98c1-f61232ecfaa7
+
+2022-01-11 14:09:13: KCO create order
+Response code: 400
+Response message: {"error_code":"BAD_VALUE","error_messages":["Bad value: merchant_urls.terms (must be a valid http or https URI)"],"correlation_id":"51d4cb31-b420-4f76-a79e-0f89b880053c","service_version":"SNAPSHOT"}
+Correlation ID: 51d4cb31-b420-4f76-a79e-0f89b880053c
+
+2022-01-11 14:08:14: KCO test credentials
+Response code: 400
+Response message: {"error_code":"BAD_VALUE","error_messages":["Bad value: merchant_urls.terms (must be a valid http or https URI)"],"correlation_id":"e212bd6c-53ea-4316-956a-af5d753cdf69","service_version":"SNAPSHOT"}
+Correlation ID: e212bd6c-53ea-4316-956a-af5d753cdf69
+
+2022-01-11 14:07:41: KCO test credentials
+Response code: 400
+Response message: {"error_code":"BAD_VALUE","error_messages":["Bad value: merchant_urls.terms (must be a valid http or https URI)"],"correlation_id":"deb21542-dcf3-4b78-b39d-3acfb622db0c","service_version":"SNAPSHOT"}
+Correlation ID: deb21542-dcf3-4b78-b39d-3acfb622db0c
+
+
+### Admin ###
+
+Enabled Features: activity-panels
+analytics
+product-block-editor
+coupons
+core-profiler
+customize-store
+customer-effort-score-tracks
+import-products-task
+experimental-fashion-sample-products
+shipping-smart-defaults
+shipping-setting-tour
+homescreen
+marketing
+mobile-app-banner
+navigation
+onboarding
+onboarding-tasks
+product-variation-management
+product-virtual-downloadable
+product-external-affiliate
+product-grouped
+product-linked
+product-pre-publish-modal
+remote-inbox-notifications
+remote-free-extensions
+payment-gateway-suggestions
+shipping-label-banner
+subscriptions
+store-alerts
+transient-notices
+woo-mobile-welcome
+wc-pay-promotion
+wc-pay-welcome-page
+
+Disabled Features: minified-js
+new-product-management-experience
+product-custom-fields
+settings
+async-product-editor-category-field
+launch-your-store
+
+Daily Cron: ✔ Next scheduled: 2024-05-20 08:12:31 +01:00
+Options: ✔
+Notes: 209
+Onboarding: completed
+
+### Action Scheduler ###
+
+Complete: 249
+Oldest: 2024-04-19 08:33:42 +0100
+Newest: 2024-05-20 07:23:19 +0100
+
+Failed: 5,662
+Oldest: 2023-02-15 02:47:23 +0000
+Newest: 2024-03-28 07:53:54 +0000
+
+Pending: 8
+Oldest: 2024-05-20 16:56:05 +0100
+Newest: 2024-05-24 18:53:17 +0100
+
+
+### Status report information ###
+
+Generated at: 2024-05-20 08:27:46 +01:00
+`
